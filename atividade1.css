@@ -1,0 +1,29 @@
+body{
+    background-color: wheat;
+}
+div.site1 {
+    
+    color: black;
+    text-align: center;
+}
+header{
+    margin: auto;
+    
+}
+.siteimagem{
+    max-width: 100%;
+    width: auto;
+    border-radius: 10px;
+    border-style: groove;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.container{
+    max-width: 100%;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    margin: auto;
+    
+}
